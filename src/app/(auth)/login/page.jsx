@@ -3,5 +3,6 @@ export default function Login(){
     return <>
         <h1>Login</h1>
         <Link href='/'>Home</Link>
+        <Link href='/register'>Register</Link>
     </>
 }   
